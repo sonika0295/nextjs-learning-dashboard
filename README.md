@@ -4,3 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 npx next dev (for run the project in local)
+git commit --amend --author="sonika0295 <sonikakurmi48@gmail.com>" --no-edit
